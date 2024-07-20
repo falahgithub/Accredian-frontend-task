@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+.steps {
+ 
+  width: 1934px;
+  height: 785px;
+  margin-top: 75px;
+  background-color: #EEF5FF;
+}
+
+.steps h2 {
+ width: 321px;
+ height: 59px;
+ top: 23px;
+ left: 805px;
+ font-size: 25.66px;
+ color: #1A202C;
+
+ font-family: "Roboto", sans-serif;
+ font-weight: 700;
+ /* font robota semibold */
+}
+
+
+.steps .steps-refer{
+  width: 1387px;
+  height: 491px;
+  top: 124px;
+  left: 275px;
+}
+.steps .add-friend{
+  top: 266px;
+  left: 532px;
+  width: 88px;
+  height: 66.96px;
+}
+.steps .layer-10{
+  top: 266px;
+  left: 933px;
+  width: 65.11px;
+  height: 67.38px;
+}
+.steps .group-22036{
+  top: 266px;
+  left: 1315px;
+  width: 65px;
+  height: 67.25px;
+}
+.steps .steps-desc{
+  width: 193px;
+  height: 88px;
+  color: #000;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  /* font Roboto regular */
+}
+.steps .add-friend-desc{
+  top: 359px;
+  left: 466px;
+}
+.steps .layer-10-desc{
+  top: 365px;
+  left: 866px;
+}
+.steps .group-22036-desc{
+  top: 365px;
+  left: 1255px;
+}

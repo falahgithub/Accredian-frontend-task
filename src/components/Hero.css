@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.group-22081{
+  width: 797px;
+  height: 63px;
+
+  border-radius: 100px;
+  background-color:#d4e2f7;
+  margin-left: 561px;
+  margin-top: 39.8px;
+  line-height: 2.2;
+  font-size: 25px;
+}
+.group-22081 div{
+  cursor: pointer;
+}
+
+.group-22081-options.active {
+  color: #1A73E8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* height: 43px; */
+}
+
+.group-22081-options .blue-dot {
+  /* position: absolute; */
+  /* bottom: -5px;
+  left: 50%;
+  transform: translateX(-50%); */
+  width: 6px;
+  height: 6px;
+  background-color: #1A73E8;
+  border-radius: 50%;
+
+}
+
+
+.hero {
+  
+  align-items: bottom;
+
+  width: 1360px;
+  height: 692px;
+  margin-left: 280px;
+  margin-top: 27px;
+  background-color: #EEF5FF;
+  border-radius: 29px;
+
+
+}
+
+.hero-content {
+  max-width: 50%;
+  width: 502px;
+  height: 367px;
+  position: absolute;
+  top: 127px;
+  left: 45px;
+}
+
+.hero-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #1A202C;
+  font-size: 88px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  /* font-family: 'Roboto Bold'; */
+}
+
+.hero-content-desc{
+  width: 415px;
+  height: 140px;
+  font-size: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  /* font-family: Robota regular; */
+  /* margin-bottom: 2rem; */
+}
+.hero-content-desc p {
+  font-size: 40px;
+}
+
+.hero-content span {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.hero-image img {
+  position: absolute;
+  top:0px;
+  right: 38px;
+  max-width: 814px;
+  height: 725px;
+  z-index: 5;
+}
+
+.refer-now {
+  background-color: #007bff;
+  color: white;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.anni_8_4{
+  top: 0;
+  left: 0;
+  z-index: 12;
+  width: 157px;
+  height: 87px;
+}
+
+.anni_8_5{
+  top: 0;
+  right: 25px;
+  z-index: 12;
+  width: 157px;
+  height: 87px;
+}
+.anni_8_3{
+  top: 267px;
+  right: 13px;
+  z-index: 1;
+  width: 157px;
+  height: 157px;
+}
+.anni_8_2{
+  top: 0px;
+  right: 493px;
+  z-index: 1;
+  width: 157px;
+  height: 157px;
+}
+.anni_8_1{
+  bottom: 46px;
+  right: 650px;
+  z-index: 6;
+  width: 157px;
+  height: 157px;
+}
+.refer-now-hero{ 
+ top: 555px;
+ right: 1123px;
+}
